@@ -819,7 +819,7 @@
 .projects  .project3 img{
     width:35px;
     height:35px;
-    margin-top: 70%;
+    margin-top: 60%;
     margin-left: 13%;
 }
 .projects  .project3 .available{
@@ -1044,11 +1044,11 @@
     margin-left: 40.5rem;
     font-size: 24px;
 }
-.connect .connectthrough .first{
+.connect .connectthrough .name{
     position: absolute;
     color:white;
     margin-top:-15rem;
-    margin-left: 40.5rem;
+    margin-left: 38rem;
     font-size: 18px;
 }
 .connect .connectthrough .second{
