@@ -1,4 +1,4 @@
-Hi, this is a project where i created a portfolio of mine with html,css and some concepts of bootstrap 
+Hi, this is a project where i created a portfolio of mine with html,css and some concepts of bootstrap along with responsiveness 
 
 
-https://lovely-chaja-a19178.netlify.app
+https://ornate-platypus-86f996.netlify.app
